@@ -11,4 +11,8 @@ My list
 | stuff | attribute |
 |---|---|
 | junk | old |
+| shot fabric | dazzling |
+| slipslop | unappetizing |
+| goo(k) | sticky |
+| sweet stuff | sweet |
 
