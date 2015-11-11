@@ -18,4 +18,4 @@
 
 **Garbage truck** or **dustcart** refers to a truck specially designed to collect municipal solid waste and haul the collected waste to a solid waste treatment facility such as a landfill. Other common names for this type of truck include *trash truck* in the United States, and *rubbish truck*, *bin wagon*, *dustbin lorry*, *bin lorry* or *bin van* elsewhere. 
 
-![Garbage](![alt text](http://quickwaysanitation.com/wp-content/uploads/2015/05/Junk-Removal.png "Garbage") "Garbage")
+![Garbage](http://quickwaysanitation.com/wp-content/uploads/2015/05/Junk-Removal.png "Garbage")
