@@ -1,12 +1,12 @@
 ## My first repository
 ### Welcome to my first repository
 
-My list
 * junk
 * shot fabric
 * slipslop
 * goo(k)
 * sweet stuff
+
 
 | sort | attribute |
 |---|---|
